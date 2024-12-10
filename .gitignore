@@ -1,3 +1,4 @@
 # Ignores binaries, emacs backups, and this project's executable.
 *.o
 *~
+*deque
