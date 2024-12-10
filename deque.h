@@ -14,7 +14,8 @@ private:
     void expandBlockmap();   // Expands the blockmap when necessary
 
 public:
-    Deque();                 // Constructor                                                                ~Deque();                // Destructor
+    Deque();                 // Constructor
+    ~Deque();                // Destructor
 
     void push_front(int value); // Add to the front
     void push_back(int value);  // Add to the back
@@ -25,4 +26,8 @@ public:
 };
 
 #endif // DEQUE_H
+
+
+
+
 
