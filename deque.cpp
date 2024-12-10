@@ -1,3 +1,12 @@
+/**
+ * @file deque.cpp
+ * @author Script Sages
+ * @date 2024-12-09
+ * @brief This is the cpp file for the deque assignment. Here, all the processes of making the deque and managing it are handled and distributed. 
+ * 
+ * 
+ */
+
 #include "deque.h"
 #include <iostream>
 
