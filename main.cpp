@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Script Sages 
+ * @date 2024-12-09
+ * @brief the main driver for the deque files 
+ * 
+ * 
+ */
+
 #include "deque.h"
 #include <iostream>
 #include <fstream>

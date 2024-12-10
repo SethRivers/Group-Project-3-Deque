@@ -1,3 +1,12 @@
+/**
+ * @file deque.h
+ * @author Script Sages
+ * @date 2024-12-09
+ * @brief the .h file for the deque files. Initializes the functions and many of the integars to be used
+ * 
+ * 
+ */
+
 #ifndef DEQUE_H
 #define DEQUE_H
 
